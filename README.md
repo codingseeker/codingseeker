@@ -1,16 +1,63 @@
-## Hi there 👋
+# Likhith S
 
-<!--
-**codingseeker/codingseeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused developer working primarily with Go and Python.
 
-Here are some ideas to get you started:
+I build backend systems involving APIs, concurrency, distributed systems, databases, and service communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Backend Engineering
+- Distributed Systems
+- Concurrent Systems
+- REST APIs & gRPC
+- Databases & Storage
+
+## Selected Projects
+
+### [Distributed Key-Value Store](https://github.com/codingseeker/kvstore)
+Distributed key-value store built from scratch in Go using Raft.
+
+- Leader election and replicated writes
+- Persistent WAL, snapshots, and log compaction
+- Strong and eventual consistency
+- Network fault simulation and recovery
+- Metrics, authentication, and TLS
+
+### [GoCrawler](https://github.com/codingseeker/GoCrawler)
+Concurrent web crawler built in Go.
+
+- Worker pool and bounded concurrency
+- Global rate limiting
+- URL normalization and deduplication
+- Exponential-backoff retries
+- Graceful shutdown and race-safe state
+
+### [gRPC Microservices](https://github.com/codingseeker/grpc-microservices)
+Backend services exploring service-to-service communication using gRPC.
+
+### [URL Shortener](https://github.com/codingseeker/Url-shortner)
+Backend URL-shortening service focused on APIs and persistence.
+
+## Tech Stack
+
+**Languages:** Go · Python · C++ · SQL
+
+**Backend:** REST APIs · gRPC · Microservices
+
+**Systems:** Distributed Systems · Concurrency · System Design
+
+**Tools:** Git · Linux · Docker
+
+## Currently Building
+
+- Supply Chain Disruption Predictor
+- SAIRA
+
+
+
+
+
+
+## Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL)
