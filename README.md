@@ -53,11 +53,6 @@ Backend URL-shortening service focused on APIs and persistence.
 - Supply Chain Disruption Predictor
 - SAIRA
 
-
-
-
-
-
 ## Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](www.linkedin.com/in/likhith-s-dev)
