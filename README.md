@@ -76,4 +76,4 @@ Supply Chain Disruption Predictor · SAIRA
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/likhith-s-dev)
+([LinkedIn](https://www.linkedin.com/in/likhith-s-dev/))
