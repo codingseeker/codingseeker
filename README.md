@@ -1,57 +1,78 @@
 # Likhith S
 
-Backend-focused developer working primarily with Go and Python.
+**Backend-focused developer building systems with Go and Python.**
 
-I build backend systems involving APIs, concurrency, distributed systems, databases, and service communication.
+I work primarily on backend engineering, distributed systems, concurrency, APIs, databases, and service communication.
 
-## Focus
+---
 
-- Backend Engineering
-- Distributed Systems
-- Concurrent Systems
-- REST APIs & gRPC
-- Databases & Storage
+## What I Build
 
-## Selected Projects
+| Backend | Systems | Infrastructure |
+|---|---|---|
+| REST APIs | Distributed Systems | Docker |
+| gRPC Services | Concurrency | Linux |
+| Microservices | Storage Systems | Git |
 
-### [Distributed Key-Value Store](https://github.com/codingseeker/kvstore)
-Distributed key-value store built from scratch in Go using Raft.
+---
 
-- Leader election and replicated writes
-- Persistent WAL, snapshots, and log compaction
-- Strong and eventual consistency
-- Network fault simulation and recovery
-- Metrics, authentication, and TLS
+## Selected Work
 
-### [GoCrawler](https://github.com/codingseeker/GoCrawler)
-Concurrent web crawler built in Go.
+### `kvstore`
+**Distributed Key-Value Store · Go · Raft**
 
-- Worker pool and bounded concurrency
-- Global rate limiting
-- URL normalization and deduplication
-- Exponential-backoff retries
-- Graceful shutdown and race-safe state
+A distributed key-value store built from scratch to explore consensus, replication, persistence, consistency, and failure recovery.
 
-### [gRPC Microservices](https://github.com/codingseeker/grpc-microservices)
-Backend services exploring service-to-service communication using gRPC.
+→ [View repository](https://github.com/codingseeker/kvstore)
 
-### [URL Shortener](https://github.com/codingseeker/Url-shortner)
-Backend URL-shortening service focused on APIs and persistence.
+### `GoCrawler`
+**Concurrent Web Crawler · Go**
 
-## Tech Stack
+A concurrent crawler focused on bounded worker pools, rate limiting, URL deduplication, retries, graceful shutdown, and safe concurrent state.
 
-**Languages:** Go · Python · C++ · SQL
+→ [View repository](https://github.com/codingseeker/GoCrawler)
 
-**Backend:** REST APIs · gRPC · Microservices
+### `grpc-microservices`
+**Microservices · gRPC · Go**
 
-**Systems:** Distributed Systems · Concurrency · System Design
+A backend system exploring service-to-service communication using gRPC.
 
-**Tools:** Git · Linux · Docker
+→ [View repository](https://github.com/codingseeker/grpc-microservices)
+
+### `Url-shortner`
+**URL Shortener · Backend**
+
+A backend URL-shortening service focused on API design and persistence.
+
+→ [View repository](https://github.com/codingseeker/Url-shortner)
+
+---
+
+## Technical Focus
+
+**Languages**
+
+Go · Python · C++ · SQL
+
+**Backend**
+
+REST APIs · gRPC · Microservices
+
+**Systems**
+
+Distributed Systems · Concurrency · System Design · Networking
+
+**Tools**
+
+Git · Linux · Docker
+
+---
 
 ## Currently Building
 
-- Supply Chain Disruption Predictor
-- SAIRA
+Supply Chain Disruption Predictor · SAIRA
+
+---
 
 ## Connect
 
