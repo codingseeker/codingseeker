@@ -1,6 +1,6 @@
 # Likhith S
 
-**Backend-focused developer building systems with Go and Python.**
+**Backend-focused developer building systems with Go ,Js and Python**
 
 I work primarily on backend engineering, distributed systems, concurrency, APIs, databases, and service communication.
 
