@@ -1,79 +1,44 @@
 # Likhith S
 
-**Backend-focused developer building systems with Go ,Js and Python**
+### Backend Engineer · Go · Distributed Systems
 
-I work primarily on backend engineering, distributed systems, concurrency, APIs, databases, and service communication.
-
----
-
-## What I Build
-
-| Backend | Systems | Infrastructure |
-|---|---|---|
-| REST APIs | Distributed Systems | Docker |
-| gRPC Services | Concurrency | Linux |
-| Microservices | Storage Systems | Git |
-
----
-
-## Selected Work
-
-### `kvstore`
-**Distributed Key-Value Store · Go · Raft**
-
-A distributed key-value store built from scratch to explore consensus, replication, persistence, consistency, and failure recovery.
-
-→ [View repository](https://github.com/codingseeker/kvstore)
-
-### `GoCrawler`
-**Concurrent Web Crawler · Go**
-
-A concurrent crawler focused on bounded worker pools, rate limiting, URL deduplication, retries, graceful shutdown, and safe concurrent state.
-
-→ [View repository](https://github.com/codingseeker/GoCrawler)
-
-### `grpc-microservices`
-**Microservices · gRPC · Go**
-
-A backend system exploring service-to-service communication using gRPC.
-
-→ [View repository](https://github.com/codingseeker/grpc-microservices)
-
-### `Url-shortner`
-**URL Shortener · Backend**
-
-A backend URL-shortening service focused on API design and persistence.
-
-→ [View repository](https://github.com/codingseeker/Url-shortner)
-
----
+I build backend systems with **Go and Python**, focusing on APIs, concurrency, distributed systems, databases, and infrastructure.
 
 ## Technical Focus
 
-**Languages**
+| Backend       | Systems             | Tools          |
+| ------------- | ------------------- | -------------- |
+| REST APIs     | Distributed Systems | Docker         |
+| gRPC Services | Concurrency         | Linux          |
+| Microservices | Storage Systems     | Git            |
+| PostgreSQL    | Networking          | GitHub Actions |
 
-Go · Python · C++ · SQL
+**Languages:** Go · Python · SQL
 
-**Backend**
+## Selected Work
 
-REST APIs · gRPC · Microservices
+**[GoCrawler](https://github.com/codingseeker/GoCrawler)**
+Concurrent web crawler using worker pools, rate limiting, retries, deduplication, and graceful shutdown.
 
-**Systems**
+**[kvstore](https://github.com/codingseeker/kvstore)**
+Distributed key-value store exploring Raft, replication, WAL, snapshots, and log compaction.
 
-Distributed Systems · Concurrency · System Design · Networking
+**[gRPC Microservices](https://github.com/codingseeker/grpc-microservices)**
+Backend services communicating through gRPC.
 
-**Tools**
+**[SCDP](https://github.com/codingseeker/scdp)**
+Supply-chain disruption analysis and prediction system.
 
-Git · Linux · Docker
+**[SAIRA](https://github.com/codingseeker/SAIRA)**
+AI-powered application combining backend services with model-driven functionality.
 
----
+**[SatQuery](https://github.com/codingseeker/Satquery)**
+Vision-language system for querying remote-sensing imagery using natural language.
 
-## Currently Building
+## Open Source
 
-Supply Chain Disruption Predictor · SAIRA
-
----
+Interested in contributing to meaningful open-source projects and working on real-world engineering problems beyond my own projects.
 
 ## Connect
 
-([LinkedIn](https://www.linkedin.com/in/likhith-s-dev/))
+[LinkedIn](https://www.linkedin.com/in/likhith-s-dev) · [GitHub](https://github.com/codingseeker)
