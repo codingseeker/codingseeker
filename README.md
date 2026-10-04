@@ -8,9 +8,9 @@ I build backend systems with **Go and Python**, focusing on APIs, concurrency, d
 
 | Backend | Systems | Networking & Security | Tools |
 |---|---|---|---|
-| REST APIs | Distributed Systems | Network Programming | Docker |
-| gRPC Services | Concurrency | Linux |
-| Microservices | Storage Systems  | Git |
+| REST APIs | Distributed Systems | Network | Docker |
+| gRPC Services | Concurrency | Linux |os|
+| Microservices | Storage Systems  | Git |Github actions|
 | PostgreSQL | Systems Programming | GitHub Actions |
 
 **Languages:** Go · Python · SQL · JavaScript
