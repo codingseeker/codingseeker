@@ -6,11 +6,11 @@ I build backend systems with **Go and Python**, focusing on APIs, concurrency, d
 
 ## Technical Focus
 
-| Backend | Systems | Networking & Security | Tools |
-|---|---|---|---|
-| REST APIs | Distributed Systems | Network | Docker |
-| gRPC Services | Concurrency | Linux |os|
-| Microservices | Storage Systems  | Git |Github actions|
+| Backend | Systems | Networking & Security | 
+|---|---|---|
+| REST APIs | Distributed Systems | Network |
+| gRPC Services | Concurrency | Linux |
+| Microservices | Storage Systems  | Git |
 | PostgreSQL | Systems Programming | GitHub Actions |
 
 **Languages:** Go · Python · SQL · JavaScript
